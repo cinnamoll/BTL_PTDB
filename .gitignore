@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+papers
+.python-version
+pyproject.toml
+src
+README.md
+Forecast-Models-Evaluation/.gitignore
+Forecast-Models-Evaluation/LICENSE
+Forecast-Models-Evaluation/README.md
